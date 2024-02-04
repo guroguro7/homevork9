@@ -1,0 +1,34 @@
+* {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+}
+#list-users {
+    display: flex;
+    background: url(Nature-Animation-GIF.gif);
+    width: auto;
+
+ }
+ .button-div button {
+    margin: 0auto;
+
+    background-color:blueviolet;
+    color:yellow;
+    width: 100px;
+    height: 70px;
+    justify-content: 50px;
+    border: black;
+    align-items: center;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: 0.5s;
+    border-radius: 100%;
+    display:flexbox;
+ }
+
+ p {
+    color:black;
+ }
